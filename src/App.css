@@ -1,6 +1,8 @@
 .App-header {
   display: flex;
   justify-content: center;
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 18px;
 }
 
 .App-main {
@@ -27,6 +29,8 @@
   border-style: solid;
   border-width: medium;
   border-color: black; 
+  font-family: 'Copse', serif;
+
 }
 
 .buttons-row {
@@ -44,4 +48,6 @@
   border-color: black;
   display: flex;
   justify-content: center;
+  font-family: 'Copse', serif;
+
 }
